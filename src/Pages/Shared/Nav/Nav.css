@@ -1,0 +1,10 @@
+.btn-regular{
+    background-color: rgb(241, 97, 72);
+    color:white;
+    border: 3px solid  rgb(241, 97, 72);
+}
+.btn-regular:hover{
+    background-color: rgb(248, 246, 246);
+  
+    color:black
+}

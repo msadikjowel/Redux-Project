@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Asus VivoBook",
+        "thumbnail": "https://i.ibb.co/W0jXGn8/vivobook-14-020-500x500.jpg",
+        "price": "62,000 $",
+        "key_features": "MPN: EB225T\n        Model: VivoBook 14 X415EA\n        Intel Core i5-1135G7 Processor (8M Cache, 2.40 GHz up to 4.20 GHz)\n        4GB DDR4 3200mhz RAM\n        512GB PCIEG3 SSD\n        14.0” FHD (1920X1080) Display"
+    },
+    {
+        "id": 2,
+        "name": "Asus Vivobook Flip",
+        "thumbnail": "https://i.ibb.co/khRKB8r/vivobook-flip-14-01-500x500.jpg",
+        "price": " 76,000 $",
+        "key_features": "MPN: EC084T\n        Model: VivoBook Flip 14 TM420UA\n        AMD Ryzen 5 5500U Processor (8M Cache, 2.1GHz up to 4.0GHz, 6 cores)\n        8GB LPDDR4X RAM\n        512GB M.2 NVMe PCIe 3.0 SSD\n        14\" FHD (1920X1200) Touch Display"
+    },
+    {
+        "id": 3,
+        "name": " HP 14s-fq1886AU",
+        "thumbnail": "https://i.ibb.co/GH0G04Z/hp-14s-0001-500x500.jpg",
+        "price": "63,500 $",
+        "key_features": "MPN: 4D8R1PA\n        Model: 14s-fq1886AU\n        AMD Ryzen 5 5500U Processor (8M Cache, 2.1GHz up to 4.0GHz, 6 cores)\n        8GB DDR4 3200 MHz RAM (2 x 4GB)\n        512GB PCIe NVMe M.2 SSD\n        14\" FHD (1920 x 1080) Display"
+    },
+    {
+        "id": 4,
+        "name": "Asus ZenBook",
+        "thumbnail": "https://i.ibb.co/7thgCbf/zenbook-14-ux425ja-3-500x500.jpg",
+        "price": "82,000 $",
+        "key_features": "MPN: BM018T\n        Model: Asus ZenBook 14 UX425JA i5\n        Intel Core i5-1035G1 Processor (6M Cache, 1.00 GHz up to 3.60 GHz)\n        8GB LPDDR4X RAM\n        512GB PCIe NVMe M.2 SSD\n        14” Full HD (1920 x 1080) Display"
+    },
+    {
+        "id": 5,
+        "name": "Apple MacBook Air",
+        "thumbnail": "https://i.ibb.co/SyndFC2/macbook-air-01-500x500.jpg",
+        "price": "128,000 $",
+        "key_features": "MPN: MVH22ZP/A\n        Model: Apple Macbook Air 2020\n        Intel Core i5 10th Gen (1.1GHz up to 3.5GHz) Processor\n        8GB LPDDR4X RAM\n        512GB SSD\n        13.3-inch (diagonal) Retina LED-backlit Display"
+    },
+    {
+        "id": 6,
+        "name": "HP 15s-du3025TU ",
+        "thumbnail": "https://i.ibb.co/gmnRnCs/hp-15s-0002-500x500.jpg",
+        "price": "65,000 $",
+        "key_features": "MPN: 2W2Y3PA\n        Model: 15s-du3025TU\n        Intel Core i5-1135G7 Processor (8M Cache, 2.40 GHz up to 4.20 GHz)\n        8GB 3200MHz DDR4 SDRAM\n        1TB 5400 rpm SATA HDD\n        15.6\" FHD (1920 x 1080) Display"
+    },
+    {
+        "id": "7",
+        "name": "HP 15s-eq2778AU",
+        "thumbnail": "https://i.ibb.co/1zvdX8L/hp-15s-spruce-blue-01-500x500.jpg",
+        "price": "72,000 $",
+        "key_features": "MPN: 4D8B6PA\nModel: 15s-eq2778AU\nAMD Ryzen 7 5700U (8MB L3 cache, 8 cores, 16 threads, 1.8GHz Up to 4.3GHz)\n8GB DDR4 3200MHz RAM (2 x 4GB)\n512 GB PCIe NVMe M.2 SSD\n15.6\" FHD (1920 x 1080) Display"
+    },
+    {
+        "id": "8",
+        "name": "Microsoft Surface Laptop Go",
+        "thumbnail": "https://i.ibb.co/gd2fwpS/surface-laptop-go-500x500.jpg",
+        "price": "85,000 $",
+        "key_features": "MPN: THH-00018\nModel: Surface Laptop Go\nIntel Core i5-1035G1 Processor (6M Cache, 1.00 GHz up to 3.60 GHz)\n8GB LPDDR4x RAM\n128GB Solid State Drive\n12.4\" Pixelsense (1536x1024) Multi-Touch Display"
+    },
+    {
+        "id": "9",
+        "name": "Microsoft Surface Book 3",
+        "thumbnail": "https://i.ibb.co/XbPJ33Z/surface-book-3-101-500x500.jpg",
+        "price": "150,000 $",
+        "key_features": "MPN: V6F-00001\nModel: Surface Book 3\nIntel Core i5-1035G7 Processor (6M Cache, 1.20 GHz up to 3.70 GHz)\n8GB LPDDR4x 3733MHz RAM\n256GB PCIe SSD\n13.5\" (3000x2000) MultiTouch Display"
+    },
+    {
+        "id": "10",
+        "name": "MSI Modern 15 A5M",
+        "thumbnail": "https://i.ibb.co/dD5tKW7/modern-15-a5m-grey-01-500x500.jpg",
+        "price": "68,000 $",
+        "key_features": "MPN: A5M512GB\nModel: Modern 15 A5M\nAMD Ryzen 5 5500U Processor (8M Cache, 2.1GHz up to 4.0GHz, 6 cores)\n8GB DDR4 3200Mhz RAM\n512GB NVMe PCIe Gen3x4 SSD\n15.6\" FHD (1920x1080) Display"
+    },
+    {
+        "id": "11",
+        "name": "MSI Prestige 14 A11SCX",
+        "thumbnail": "https://i.ibb.co/0BG6gFs/prestige-14-a11scx-gray-500x500.jpg",
+        "price": "116,000 $",
+        "key_features": "Model: Prestige 14 A11SCX\nIntel Core i5-1135G7 Processor (8MB Cache, 2.40 GHz up to 4.20 GHz)\n16GB LPDDR4 RAM\n1TB NVMe PCIe Gen4x4 SSD\n14\" FHD (1920 x 1080) Display"
+    },
+    {
+        "id": "12",
+        "name": "Lenovo IdeaPad Gaming 3i",
+        "thumbnail": "https://i.ibb.co/vkx7hPx/ideapad-gaming-3i-01-500x500.jpg",
+        "price": "87,000 $",
+        "key_features": "MPN: 81Y401ALIN\nModel: IdeaPad Gaming 3i\nIntel Core i5-10300H Processor (8M Cache, 2.50 GHz up to 4.50 GHz)\n8GB DDR4 2933MHz RAM\n1TB HDD+ 256GB NVME SSD\nNVIDIA GTX 1650 4GB Graphics"
+    }
+]
